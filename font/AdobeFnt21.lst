@@ -1,0 +1,108 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KoreanCNM-B
+FamilyName:KoreanCNMB
+StyleName:Regular
+FullName:KoreanCNMB
+MenuName:a시네마B
+StyleBits:0
+FamilyNameNative:a시네마B
+StyleNameNative:Regular
+FullNameNative:a시네마B
+WritingScript:Korean
+OutlineFileName:E:\영상_박정한\포트폴리오\Font\a시네마B.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8306492
+FileModTime:1741925380
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,KoreanCNMB
+NameArray:0,Win,16,KoreanCNMB
+NameArray:3,Win,1,a시네마B
+NameArray:3,Win,16,a시네마B
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KoreanCNM-M
+FamilyName:KoreanCNMM
+StyleName:Regular
+FullName:KoreanCNMM
+MenuName:a시네마M
+StyleBits:0
+FamilyNameNative:a시네마M
+StyleNameNative:Regular
+FullNameNative:a시네마M
+WritingScript:Korean
+OutlineFileName:E:\영상_박정한\포트폴리오\Font\a시네마M.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8357176
+FileModTime:1741925392
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,KoreanCNMM
+NameArray:0,Win,16,KoreanCNMM
+NameArray:3,Win,1,a시네마M
+NameArray:3,Win,16,a시네마M
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MoviePosterPersonalUse
+FamilyName:Movie Poster Personal Use
+StyleName:Regular
+FullName:Movie Poster Personal Use 
+MenuName:Movie Poster Personal Use
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\영상_박정한\포트폴리오\Font\Movie Poster Personal Use.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:374920
+FileModTime:1531107054
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Movie Poster Personal Use 
+NameArray:0,Mac,4,Movie Poster Personal Use 
+NameArray:0,Win,1,Movie Poster Personal Use
+NameArray:0,Win,16,Movie Poster Personal Use
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Collision-Regular
+FamilyName:Collision
+StyleName:Regular
+FullName:Collision Regular
+MenuName:Collision
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\영상_박정한\포트폴리오\Font\Collision.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21828
+FileModTime:1691376530
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Collision Regular
+NameArray:0,Mac,4,Collision Regular
+NameArray:0,Win,1,Collision
+%EndFont
+

@@ -1,0 +1,378 @@
+%!Adobe-FontList 1.24
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Collision-Regular
+FamilyName:Collision
+StyleName:Regular
+FullName:Collision Regular
+MenuName:Collision
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\포트폴리오\Font\Collision.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21828
+FileModTime:1691376530
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Collision Regular
+NameArray:0,Mac,4,Collision Regular
+NameArray:0,Win,1,Collision
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrederickatheGreat-Regular
+FamilyName:Fredericka the Great
+StyleName:Regular
+FullName:Fredericka the Great
+MenuName:Fredericka the Great
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\포트폴리오\Font\FrederickatheGreat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:484664
+FileModTime:1725491480
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Fredericka the Great
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MoviePosterPersonalUse
+FamilyName:Movie Poster Personal Use
+StyleName:Regular
+FullName:Movie Poster Personal Use 
+MenuName:Movie Poster Personal Use
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\포트폴리오\Font\Movie Poster Personal Use.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:374920
+FileModTime:1531107054
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Movie Poster Personal Use 
+NameArray:0,Mac,4,Movie Poster Personal Use 
+NameArray:0,Win,1,Movie Poster Personal Use
+NameArray:0,Win,16,Movie Poster Personal Use
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Black
+FamilyName:Pretendard
+StyleName:Black
+FullName:Pretendard Black
+MenuName:Pretendard Black
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Black
+FullNameNative:Pretendard Black
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2665004
+FileModTime:1699208534
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard Black
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Bold
+FamilyName:Pretendard
+StyleName:Bold
+FullName:Pretendard Bold
+MenuName:Pretendard
+StyleBits:2
+FamilyNameNative:Pretendard
+StyleNameNative:Bold
+FullNameNative:Pretendard Bold
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2661752
+FileModTime:1699208534
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-ExtraBold
+FamilyName:Pretendard
+StyleName:ExtraBold
+FullName:Pretendard ExtraBold
+MenuName:Pretendard ExtraBold
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:ExtraBold
+FullNameNative:Pretendard ExtraBold
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2669648
+FileModTime:1699208534
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard ExtraBold
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-ExtraLight
+FamilyName:Pretendard
+StyleName:ExtraLight
+FullName:Pretendard ExtraLight
+MenuName:Pretendard ExtraLight
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:ExtraLight
+FullNameNative:Pretendard ExtraLight
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2838808
+FileModTime:1699208534
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard ExtraLight
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Light
+FamilyName:Pretendard
+StyleName:Light
+FullName:Pretendard Light
+MenuName:Pretendard Light
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Light
+FullNameNative:Pretendard Light
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2813692
+FileModTime:1699208534
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard Light
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Medium
+FamilyName:Pretendard
+StyleName:Medium
+FullName:Pretendard Medium
+MenuName:Pretendard Medium
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Medium
+FullNameNative:Pretendard Medium
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2701192
+FileModTime:1699208534
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard Medium
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Regular
+FamilyName:Pretendard
+StyleName:Regular
+FullName:Pretendard Regular
+MenuName:Pretendard
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Regular
+FullNameNative:Pretendard Regular
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2725828
+FileModTime:1699208534
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-SemiBold
+FamilyName:Pretendard
+StyleName:SemiBold
+FullName:Pretendard SemiBold
+MenuName:Pretendard SemiBold
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:SemiBold
+FullNameNative:Pretendard SemiBold
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2671468
+FileModTime:1699208534
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard SemiBold
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pretendard-Thin
+FamilyName:Pretendard
+StyleName:Thin
+FullName:Pretendard Thin
+MenuName:Pretendard Thin
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Thin
+FullNameNative:Pretendard Thin
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\Pretendard-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2868924
+FileModTime:1699208534
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard Thin
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KoreanCNM-B
+FamilyName:KoreanCNMB
+StyleName:Regular
+FullName:KoreanCNMB
+MenuName:a시네마B
+StyleBits:0
+FamilyNameNative:a시네마B
+StyleNameNative:Regular
+FullNameNative:a시네마B
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\a시네마B.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:8306492
+FileModTime:1741925380
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,KoreanCNMB
+NameArray:0,Win,16,KoreanCNMB
+NameArray:3,Win,1,a시네마B
+NameArray:3,Win,16,a시네마B
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KoreanCNM-M
+FamilyName:KoreanCNMM
+StyleName:Regular
+FullName:KoreanCNMM
+MenuName:a시네마M
+StyleBits:0
+FamilyNameNative:a시네마M
+StyleNameNative:Regular
+FullNameNative:a시네마M
+WritingScript:Korean
+OutlineFileName:F:\포트폴리오\Font\a시네마M.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:8357176
+FileModTime:1741925392
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,KoreanCNMM
+NameArray:0,Win,16,KoreanCNMM
+NameArray:3,Win,1,a시네마M
+NameArray:3,Win,16,a시네마M
+%EndFont
+
