@@ -1,8 +1,50 @@
 @charset "utf-8";
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 2000px) {
+  html {
+    font-size: 15px;
+  }
+  .skill .license li {
+    width: 45%;
+}
+}
+@media screen and (max-width: 1400px) {
+  html {
+    font-size: 11px;
+  }
+
+  .skill .license li {
+    width: 70%;
+}
+.basic-info {
+    width: 100%;
+}
+}
+
+ @media screen and (max-width: 768px) {
+ .swiper-slide .description {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: translateY(0) !important;
+  pointer-events: auto;
+}
+    
+.swiper-slide:hover .description {
+  opacity: 1;
+  transform: none;
+}
+
+.swiper-slide:hover img {
+  filter: none;
+}
+.two .skill .license {
+  width: 25rem;
+}
+}
+
+@media screen and (max-width: 475px) {
     html {
-        font-size: 10px;
+        font-size: 8px;
       }
     
       .titlename h1 {
@@ -36,6 +78,7 @@
         width: 90%;
         height: 90%;
       }
+      
       .about-me .screen .board {
     height: 95%;
     padding: 1rem;
@@ -58,7 +101,7 @@
       .board .board-inner .two {
         width: 100%;
         justify-content: center;
-        gap: 1rem;
+        gap: 40%;
       }
 
      .basic-info {
@@ -74,13 +117,13 @@
       }
 
       .skill .license ul {
-    width: 150%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
-    gap: 5%;
+    justify-content: space-between;
 }
 .skill .license li {
-    width: 35%;
+    width: 45%;
     display: inline-block;
 }
       .modal {
@@ -167,21 +210,15 @@
       }
     }
 
-    @media screen and (max-width: 768px) {
-      .swiper-slide .description {
-        opacity: 1 !important;
-        visibility: visible !important;
-        transform: translateY(0) !important;
-        pointer-events: auto;
-      }
-    
-      .swiper-slide:hover .description {
-        opacity: 1;
-        transform: none;
-      }
+    @media screen and (max-width: 330px) {
+.about-me .screen .board {
+  width: 70%;
+}
 
-      .swiper-slide:hover img {
-        filter: none;
-      }
+.board .board-inner {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
     }
-
